@@ -1,0 +1,8 @@
+10  REM afhaufh
+15   LET n1 = 5
+20   LET n2 = 5
+25   INPUT n3 
+30   IF n3 = n1 + n2 THEN 40
+35  PRINT 0
+38  END
+40  PRINT 1

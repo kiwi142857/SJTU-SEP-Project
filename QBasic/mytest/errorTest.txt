@@ -1,0 +1,10 @@
+11  LET n = 0
+12  LET n1 = n + 33
+14  PRINT 1 - 2 / ( 3 + 4 - 7 )
+15  IF 1 < 2 THEN 7
+16  INPUT n8
+19  LET n2 = n3 + n1
+20  INPUT n4
+34  IF 4 > 3 THEN 44
+35   IF THEN 23 > 34 4
+99  END

@@ -1,0 +1,8 @@
+1  REM aa
+2  INPUT a
+3  INPUT b
+4  IF a*b-5 > b*b MOD 2 THEN 7
+5  PRINT 100
+6  GOTO 8
+7  PRINT 1000
+8  END

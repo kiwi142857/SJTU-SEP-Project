@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>rec/emoji/bear.png</file>
+        <file>rec/emoji/frog.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/new/prefix2">
+        <file>rec/emoji/clown face.png</file>
+        <file>rec/emoji/detective.png</file>
+        <file>rec/emoji/enraged face.png</file>
+        <file>rec/emoji/face savoring food.png</file>
+        <file>rec/emoji/grinning face with sweat.png</file>
+        <file>rec/emoji/heart with ribbon.png</file>
+        <file>rec/emoji/laughing.png</file>
+        <file>rec/emoji/loudly crying face.png</file>
+        <file>rec/emoji/mage.png</file>
+        <file>rec/emoji/nerd face.png</file>
+        <file>rec/emoji/partying face.png</file>
+        <file>rec/emoji/pleading face.png</file>
+        <file>rec/emoji/smiling face with hearts.png</file>
+        <file>rec/emoji/winking face.png</file>
+        <file>rec/emoji/power/cold.png</file>
+        <file>rec/emoji/power/dissy.png</file>
+        <file>rec/emoji/power/mouse.png</file>
+        <file>rec/emoji/power/reverse.png</file>
+        <file>rec/emoji/power/star.png</file>
+        <file>rec/emoji/power/timePlus.png</file>
+        <file>rec/emoji/icon.png</file>
+    </qresource>
+</RCC>

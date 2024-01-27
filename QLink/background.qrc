@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>rec/end/win.png</file>
+        <file>rec/background/you have not.jpg</file>
+        <file>rec/background/introduction3.png</file>
+        <file>rec/background/introduction3.1.png</file>
+        <file>rec/background/backgroundGif-.gif</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>rec/background/BackButtonSelected.png</file>
+        <file>rec/background/backGround.png</file>
+        <file>rec/background/backGroundGif.gif</file>
+        <file>rec/background/doubleMode.jpg</file>
+        <file>rec/background/exit.jpg</file>
+        <file>rec/background/loadGame.jpg</file>
+        <file>rec/background/newGame.jpg</file>
+        <file>rec/background/singleMode.jpg</file>
+        <file>rec/background/title.jpg</file>
+        <file>rec/background/gamebackground.jpg</file>
+        <file>rec/background/gamebackground1.jpg</file>
+        <file>rec/background/gamebackground2.jpg</file>
+        <file>rec/background/gamebackground3.jpg</file>
+        <file>rec/background/gamebackground4.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>rec/end/failure.png</file>
+        <file>rec/end/win.png</file>
+        <file>rec/end/click to continue (RED).jpg</file>
+        <file>rec/end/click to continue(BLUE).jpg</file>
+        <file>rec/margin/continue.png</file>
+        <file>rec/margin/stop.png</file>
+        <file>rec/margin/download.png</file>
+        <file>rec/margin/menu.png</file>
+        <file>rec/margin/upload.png</file>
+        <file>rec/margin/musicLouder.png</file>
+        <file>rec/margin/musicLower.png</file>
+        <file>rec/margin/musicOff.png</file>
+        <file>rec/margin/musicOn.png</file>
+        <file>rec/margin/Introduction.png</file>
+        <file>rec/margin/side.png</file>
+        <file>rec/margin/back.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix4">
+        <file>rec/background/endingMusic.mp3</file>
+        <file>rec/background/gameOn.mp3</file>
+    </qresource>
+</RCC>

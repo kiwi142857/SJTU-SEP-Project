@@ -1,0 +1,2 @@
+10 PRINT a1 = 5 MOD 2 3 5 
+12 LET a = 5 MOD 2 4 5 6 7 

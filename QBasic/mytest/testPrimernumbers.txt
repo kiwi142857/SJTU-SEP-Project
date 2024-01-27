@@ -1,0 +1,13 @@
+1 REM this program will print all the primer number less than your input. 
+100 INPUT MAX
+110 LET n=1
+120 IF n>MAX THEN 900
+125 LET tmp=2
+305 LET n=n+1
+310 GOTO 120
+130 IF tmp>n/2 THEN 300
+140 IF n MOD tmp=0 THEN 305
+150 LET tmp=tmp+1
+160 GOTO 130
+300 PRINT n
+900 END 

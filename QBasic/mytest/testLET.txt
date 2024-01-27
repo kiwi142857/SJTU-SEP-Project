@@ -1,0 +1,5 @@
+10  LET n1 = 1 * - 5 + 4484 * 8 - 8 * 448
+20  LET n2 = 2 ** 8 * 6 / 5 MOD 2
+30  PRINT n1
+40  PRINT n2
+50  END
