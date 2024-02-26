@@ -15,4 +15,4 @@ int main(int argc, char *argv[])
 }
 // QTEST_MAIN(LinkTest);
 
-/* copyright @kiwi*/
+/* copyright 779490624@qq.com*/
